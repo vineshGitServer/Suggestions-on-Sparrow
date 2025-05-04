@@ -1,0 +1,18 @@
+Mock API Wizard — Define Endpoint
+Fields:
+
+Endpoint Path: /api/users
+
+HTTP Method: GET | POST | PUT | DELETE (dropdown)
+
+AI Description Box (Natural Language):
+Example input:
+"Return a paginated list of 10 users, each with id, name, email, and avatar. Include totalCount for pagination."
+
+Optional Settings:
+
+Enable query parameters (e.g., ?page=2)
+
+Toggle response status codes (e.g., 200, 400, 500)
+
+Action Button: “Generate Mock”
